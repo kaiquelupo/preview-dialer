@@ -66,7 +66,7 @@ build/
 
 public/*.csv
 
-src/configs/campaigns.json
+# src/configs/campaigns.json
 
 .env.development
 .env.production
