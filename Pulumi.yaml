@@ -1,0 +1,4 @@
+name: preview-dialer
+runtime: nodejs
+description: Preview dialer using TaskRouter and Twilio Flex
+main: src/resources
